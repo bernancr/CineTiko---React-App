@@ -4,7 +4,7 @@ import { getAuth, onAuthStateChanged } from 'firebase/auth';
 
 // Configuración de Firebase
 const firebaseConfig = {
-  apiKey: "AIzaSyBjMEis9hddQrjU7pjayE43_2vKJT8kEBA",
+  apiKey: "",
   authDomain: "cinetiko-d7c4e.firebaseapp.com",
   projectId: "cinetiko-d7c4e",
   locationId: "us-central",
