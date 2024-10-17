@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cinetiko/static/css/main.03a1c034.css",
+    "main.js": "/cinetiko/static/js/main.27584cd5.js",
+    "static/js/787.73581685.chunk.js": "/cinetiko/static/js/787.73581685.chunk.js",
+    "static/media/cinema.png": "/cinetiko/static/media/cinema.6eb40e3b72a2f8336cc1.png",
+    "index.html": "/cinetiko/index.html",
+    "main.03a1c034.css.map": "/cinetiko/static/css/main.03a1c034.css.map",
+    "main.27584cd5.js.map": "/cinetiko/static/js/main.27584cd5.js.map",
+    "787.73581685.chunk.js.map": "/cinetiko/static/js/787.73581685.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03a1c034.css",
+    "static/js/main.27584cd5.js"
+  ]
+}
